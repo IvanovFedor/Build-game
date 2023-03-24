@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb602b39f2253c41b9ef1d166d8ae59, type: 3}
+  m_Name: Woll
+  m_EditorClassIdentifier: 
+  Name: Cube
+  UiPicture: {fileID: 21300000, guid: c3bd87561c73cdd4282ffde9b93dde1c, type: 3}
+  Prefab: {fileID: 9042275912403387483, guid: 4aa8fea368e53d94db4e3ca616056f1c, type: 3}
+  ghostCache: {fileID: 4467995665406561464, guid: d9a1be8785a5add4290b1273debb7b1f, type: 3}
+  ghostMaterial: {fileID: 2100000, guid: 97d3d5b4dab8acf468a9159754b65871, type: 2}
